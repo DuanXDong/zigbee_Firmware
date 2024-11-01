@@ -1,11 +1,11 @@
 {
 	"coordinator":{
-		"link":"https://gitee.com/xue_dong_duan/zigbee_-firmware/raw/master/Z-Stack_3.x.0/coordinator_20240710.bin",
+		"link":"https://raw.githubusercontent.com/DuanXDong/zigbee_Firmware/refs/heads/main/coordinator_20240710.bin",
 		"rev":"20240710",
 		"notes":"Fixed firmware instability issues introduced in the 20230507 firmware\nFix NWK_TABLE_FULL errors\nSimpleLink SDK 7.41.00.17"
 	},
 	"router":{
-		"link":"https://gitee.com/xue_dong_duan/zigbee_-firmware/raw/master/Z-Stack_3.x.0/router_20221102.bin",
+		"link":"https://raw.githubusercontent.com/DuanXDong/zigbee_Firmware/refs/heads/main/router_20221102.bin",
 		"rev":"20221102",
 		"notes":"Allow to set transmit power\nFix directly connected Xiaomi devices disconnecting\nSimpleLink SDK 6.30.00.84"
 	},
@@ -14,13 +14,13 @@
 			"type": "Coordinator",
 			"rev": "20240710",
 			"notes": "Fixed firmware instability issues introduced in the 20230507 firmware\nFix NWK_TABLE_FULL errors\nSimpleLink SDK 7.41.00.17",
-			"link": "https://gitee.com/xue_dong_duan/zigbee_-firmware/raw/master/Z-Stack_3.x.0/coordinator_20240710.bin"
+			"link": "https://raw.githubusercontent.com/DuanXDong/zigbee_Firmware/refs/heads/main/coordinator_20240710.bin"
 		},
 		{
 			"type": "Router",
 			"rev": "20221102",
 			"notes": "Allow to set transmit power\nFix directly connected Xiaomi devices disconnecting\nSimpleLink SDK 6.30.00.84",
-			"link": "https://gitee.com/xue_dong_duan/zigbee_-firmware/raw/master/Z-Stack_3.x.0/router_20221102.bin"
+			"link": "https://raw.githubusercontent.com/DuanXDong/zigbee_Firmware/refs/heads/main/router_20221102.bin"
 		}
 	]
 }
