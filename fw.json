@@ -1,6 +1,6 @@
 {
 	"coordinator":{
-		"link":"https://raw.githubusercontent.com/DuanXDong/zigbee_Firmware/refs/heads/main/coordinator_20240710.bin",
+		"link":"https://smlight.tech/flasher/firmware/bin/slzb06x/zigbee/slzb06/new-format/CC1352P2_CC2652P_other_coordinator_20240710.bin",
 		"rev":"20240710",
 		"notes":"Fixed firmware instability issues introduced in the 20230507 firmware\nFix NWK_TABLE_FULL errors\nSimpleLink SDK 7.41.00.17"
 	},
@@ -14,7 +14,7 @@
 			"type": "Coordinator",
 			"rev": "20240710",
 			"notes": "Fixed firmware instability issues introduced in the 20230507 firmware\nFix NWK_TABLE_FULL errors\nSimpleLink SDK 7.41.00.17",
-			"link": "https://raw.githubusercontent.com/DuanXDong/zigbee_Firmware/refs/heads/main/coordinator_20240710.bin"
+			"link": "https://smlight.tech/flasher/firmware/bin/slzb06x/zigbee/slzb06/new-format/CC1352P2_CC2652P_other_coordinator_20240710.bin"
 		},
 		{
 			"type": "Router",
